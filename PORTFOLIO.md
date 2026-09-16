@@ -106,7 +106,7 @@ Branding and website work in the South Hams, bringing clear guidance and practic
 
 ## Bloxli
 
-**Studio-owned venture.** Branding and a lightweight static website focused on responsive presentation and efficient delivery. [Live website](https://bloxli.com/)
+A fast static site build for Bloxli Web Design in Plymouth, Devon, focused on lightweight structure, responsive presentation and dependable delivery. [Live website](https://bloxli.com/)
 
 ![Bloxli desktop Safari screenshot](media/bloxli-desktop.png)
 
@@ -116,13 +116,13 @@ Branding and website work in the South Hams, bringing clear guidance and practic
 
 ## Varial
 
-**Studio-owned product. Closed-beta development.** Brand identity, interface design and app development for a place to organise, create and share things from the web.
+Brand, product design and app development work for Cornwall-based Varial, the place to organise, create and share things from the web, with a polished build taking shape for a small closed beta.
 
 ![Varial brand identity, icons and light and dark product interfaces](media/varial-artwork.png)
 
 ## Soda
 
-**Studio-owned venture. Brand identity.** A stripped-back, distinctive identity for Soda SEO, designed to be direct, memorable and easy to use.
+A distinctive, stripped-back logo for a no-fuss UK SEO company, giving the brand a direct mark that feels simple, memorable and easy to use.
 
 ![Soda black wordmark identity on white](media/soda-artwork.png)
 

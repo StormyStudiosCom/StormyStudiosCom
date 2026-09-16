@@ -40,7 +40,7 @@ Every project is shaped around the business and the people using it. The right C
 | [![Smash Em website preview in dark Safari](media/smash-em-desktop.png)](PORTFOLIO.md#smash-em) | [![Franklyn Robinson brand identity on gold](media/franklyn-robinson-artwork.png)](PORTFOLIO.md#franklyn-robinson) |
 | Bespoke website and **custom CMS** for menus, specials and photography. Looe, Cornwall. Awaiting launch. | Brand identity, website and bespoke property platform. Rame, Cornwall. Work in progress. |
 
-### Studio Ventures
+### Websites & Identities
 
 | Stormy Studios | Bloxli | Varial | Soda |
 | --- | --- | --- | --- |
@@ -80,4 +80,4 @@ Our own website's [published performance history](https://stormystudios.com/#per
 
 Business founded in 2024. The 25+ years above refer to professional experience.
 
-Portfolio images show Stormy Studios' work for the named organisations and its studio-owned ventures. Client marks and artwork remain the property of their respective owners; this gallery is not a reusable asset library.
+Portfolio images show website, brand and product work by Stormy Studios. Marks and artwork remain the property of their respective owners; this gallery is not a reusable asset library.
