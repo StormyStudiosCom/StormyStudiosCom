@@ -6,6 +6,8 @@
 
 Stormy Studios is an independent web design and development studio in **Pelynt, near Looe, Cornwall**. We create bespoke websites, identities and digital products for businesses across Cornwall, Devon and the UK, backed by more than 25 years of website design and development experience.
 
+The studio is led by Matt Fryer, a web designer and developer.
+
 Clear direction, considered design and dependable technical work, from the first conversation through to launch and ongoing care.
 
 [Visit the website](https://stormystudios.com/) · [Explore the work](https://stormystudios.com/#work) · [Discuss a project](https://stormystudios.com/#contact)
@@ -77,6 +79,9 @@ Our own website's [published performance history](https://stormystudios.com/#per
 - **Based in:** Pelynt, near Looe, Cornwall, UK
 - **Hours:** Monday to Friday, 09:00-17:00 UK time
 - **Clutch:** [Stormy Studios profile](https://clutch.co/profile/stormy-studios)
+- **LinkedIn:** [Stormy Studios company profile](https://www.linkedin.com/company/stormystudios/)
+- **Portfolio:** [Ware Commercial case study on Behance](https://www.behance.net/gallery/257945431/Ware-Commercial-commercial-property-website)
+- **Technical notes:** [Stormy Studios Web Notes](https://stormystudios.hashnode.dev/)
 
 Business founded in 2024. The 25+ years above refer to professional experience.
 
