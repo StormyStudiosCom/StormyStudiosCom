@@ -63,6 +63,10 @@ Individual testimonial cards reproduced from [the Stormy Studios website](https:
 | --- | --- |
 | ![Paul Robins: Very knowledgeable and great to work with. The work has been very effective for us. Highly recommended.](media/review-paul-robins.png) | ![Khara Pierre: The branding, imagery, and overall design were excellent and far exceeded my expectations.](media/review-khara-pierre.png) |
 
+## Interface Examples
+
+[Native HTML FAQ](examples/native-html-faq/) — a standalone source companion to our FAQ tutorial, with native disclosure controls, readable answers and implementation notes.
+
 ## How We Work
 
 **Discover / Design / Build / Launch / Support**
